@@ -9,8 +9,8 @@ title: "index"
 I've decided to restart a blog and instead of writing daily, use tricks to keep it up to date with the various things I've been doing.
 
 ### The content
-Here's a sampling of what I make public in my [Obsidian](https://obsidian.md)vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag-
- *share: True*
+Here's a sampling of what I make public in my [Obsidian](https://obsidian.md) vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag
+> *share: True*
 
 ### Links to public notes
 1. [Obsidian Publishing Framework](Obsidian%20Publishing%20Framework) 
@@ -20,11 +20,11 @@ Here's a sampling of what I make public in my [Obsidian](https://obsidian.md)vau
 5. [Reactance in psychology](Reactance%20in%20psychology)       
 6. [Ella Fitzgerald](Ella%20Fitzgerald)               
 7. [Tennessee Williams](Tennessee%20Williams)            
-                                   
 
 
 
-`To navigate back to the menu click the [sean808080.github.io](https://sean808080.github.io/) link at the top of the note
+
+>To navigate back to the menu click the [sean808080.github.io](https://sean808080.github.io/) link at the top of the note
 
 
 Last updated: now
