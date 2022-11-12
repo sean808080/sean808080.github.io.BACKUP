@@ -24,5 +24,7 @@ Here's a sampling of what I make public in my [Obsidian](https://obsidian.md)vau
 
 
 
+`To navigate back to the menu click the [sean808080.github.io](https://sean808080.github.io/) link at the top of the note
+
 
 Last updated: now
