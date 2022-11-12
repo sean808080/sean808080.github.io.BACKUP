@@ -3,7 +3,7 @@ share: TRUE
 title: "Tennessee Williams"
 ---
 
-up:: [Writing MOC](Writing%20MOC)
+
 tag:: #quote #wisdom #creativity #blog 
 
 # Tennessee Williams 
