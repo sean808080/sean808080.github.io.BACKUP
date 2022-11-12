@@ -7,16 +7,16 @@ title: "index"
 # my rusty old resurrected and reinvigorated blog
 ---
 ### Introduction
-I've decided to restart a blog and instead of writing daily, use tricks to keep it up to date with the various things I've been doing.
+I've decided to restart a website and instead of dealing with adminstration, I'll use a few hooks to publish content to the site with a simple tag.
 
 ---
 ### The content
-Here's a sampling of what I make public in my [Obsidian](https://obsidian.md) vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag
+The header of this site has navigation that is based on a sampling of what I make public in my [Obsidian](https://obsidian.md) vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag
 ```yaml
 share: TRUE
 ```
 ---
-
+Just by adding that YAML tag to whatver note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.  Nice...
 
 
 
