@@ -31,6 +31,7 @@ share: TRUE
 
 ---
 >To navigate back to the menu click the [sean808080.github.io](https://sean808080.github.io/) link at the top of the note
-
+---
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" width="480" height="640" alt=""></a>
 ---
 Last updated: now
