@@ -4,7 +4,8 @@ title: "index"
 ---
 
 # my rusty old resurrected and reinvigorated blog
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" width="240" height="320" alt=""></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" align="right" width="240" height="320" alt="my latest flickr photo"></a>
+
 
 ---
 ### Introduction
