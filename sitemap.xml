@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://sean808080.github.io/sean808080.github.io/</loc>
+         <loc>https://sean808080.github.io/sean808080.github.io/Democracy%20rankings/</loc>
          <lastmod>2022-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sean808080.github.io/sean808080.github.io/Democracy%20Rankings/</loc>
-         <lastmod>2022-11-12</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://sean808080.github.io/sean808080.github.io/Digital%20Love%20Languages/</loc>
+         <loc>https://sean808080.github.io/sean808080.github.io/Digital%20love%20languages/</loc>
          <lastmod>2022-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -26,7 +21,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://sean808080.github.io/sean808080.github.io/Reactance%20in%20Psychology/</loc>
+         <loc>https://sean808080.github.io/sean808080.github.io/Reactance%20in%20psychology/</loc>
          <lastmod>2022-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -42,6 +37,11 @@
     </url>
     <url>
          <loc>https://sean808080.github.io/sean808080.github.io/Writing%20MOC/</loc>
+         <lastmod>2022-11-12</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://sean808080.github.io/sean808080.github.io/index.md/</loc>
          <lastmod>2022-11-12</lastmod>
          <changefreq>daily</changefreq>
     </url>
