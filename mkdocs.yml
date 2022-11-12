@@ -78,8 +78,8 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:mermaid2.fence_mermaid
 plugins:
-  - blog
-  blog_dir: .
+ # - blog
+ # blog_dir: .
   - search
   - ezlinks:
         wikilinks: true
