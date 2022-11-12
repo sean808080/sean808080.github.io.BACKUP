@@ -1,4 +1,8 @@
 theme: minima
+minima:
+  social_links:
+    - { platform: github,  user_url: "https://github.com/sean808080" }
+    - { platform: twitter, user_url: "https://twitter.com/sean808080" }
 #remote_theme: material-theme/vsc-material-theme
 #remote_theme: squidfunk/mkdocs-material
 #remote_theme: pages-themes/architect@v0.2.0
