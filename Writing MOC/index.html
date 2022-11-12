@@ -44,6 +44,9 @@
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
 <div data-md-component="skip">
+<a class="md-skip" href="#writing-moc">
+          Skip to content
+        </a>
 </div>
 <div data-md-component="announce">
 </div>
@@ -118,7 +121,7 @@
 <ul class="md-tabs__list">
 <li class="md-tabs__item">
 <a class="md-tabs__link" href="..">
-      Home
+      index
     </a>
 </li>
 <li class="md-tabs__item">
@@ -181,7 +184,7 @@
 <ul class="md-nav__list" data-md-scrollfix="">
 <li class="md-nav__item">
 <a class="md-nav__link" href="..">
-        Home
+        index
       </a>
 </li>
 <li class="md-nav__item">
@@ -221,9 +224,54 @@
 </li>
 <li class="md-nav__item md-nav__item--active">
 <input class="md-nav__toggle md-toggle" data-md-toggle="toc" id="__toc" type="checkbox"/>
+<label class="md-nav__link md-nav__link--active" for="__toc">
+          Writing MOC
+          <span class="md-nav__icon md-icon"></span>
+</label>
 <a class="md-nav__link md-nav__link--active" href="./">
         Writing MOC
       </a>
+<nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#writing-moc">
+    Writing MOC
+  </a>
+<nav aria-label="Writing MOC" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#random-memories">
+    Random  Memories
+  </a>
+<nav aria-label="Random  Memories" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#traumas">
+    Traumas
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#why-list-out-traumas">
+    Why list out traumas?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#everything-else">
+    Everything else
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
 </li>
 </ul>
 </nav>
@@ -234,6 +282,45 @@
 <div class="md-sidebar__scrollwrap">
 <div class="md-sidebar__inner">
 <nav aria-label="Table of contents" class="md-nav md-nav--secondary">
+<label class="md-nav__title" for="__toc">
+<span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+<ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#writing-moc">
+    Writing MOC
+  </a>
+<nav aria-label="Writing MOC" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#random-memories">
+    Random  Memories
+  </a>
+<nav aria-label="Random  Memories" class="md-nav">
+<ul class="md-nav__list">
+<li class="md-nav__item">
+<a class="md-nav__link" href="#traumas">
+    Traumas
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#why-list-out-traumas">
+    Why list out traumas?
+  </a>
+</li>
+<li class="md-nav__item">
+<a class="md-nav__link" href="#everything-else">
+    Everything else
+  </a>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
+</nav>
+</li>
+</ul>
 </nav>
 </div>
 </div>
@@ -241,11 +328,23 @@
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
 <h1>Writing MOC</h1>
-<div class="highlight"><pre><span></span><code><a href="#__codelineno-0-1" id="__codelineno-0-1" name="__codelineno-0-1"></a>table
-<a href="#__codelineno-0-2" id="__codelineno-0-2" name="__codelineno-0-2"></a>file.size as "Size" from #randomThought 
-<a href="#__codelineno-0-3" id="__codelineno-0-3" name="__codelineno-0-3"></a>where file.name != "Template, Random Memory"
-<a href="#__codelineno-0-4" id="__codelineno-0-4" name="__codelineno-0-4"></a>sort file.size desc
-</code></pre></div>
+<h2 id="writing-moc">Writing MOC<a class="headerlink" href="#writing-moc" title="Permanent link">¶</a></h2>
+<hr/>
+<p>Random Thoughts</p>
+<hr/>
+<h3 id="random-memories">Random  Memories<a class="headerlink" href="#random-memories" title="Permanent link">¶</a></h3>
+<hr/>
+<h6 id="traumas">Traumas<a class="headerlink" href="#traumas" title="Permanent link">¶</a></h6>
+<h6 id="why-list-out-traumas">Why list out traumas?<a class="headerlink" href="#why-list-out-traumas" title="Permanent link">¶</a></h6>
+<ul>
+<li>It’s important because:<ul>
+<li>writing them down helps remove their power</li>
+<li>they may provide useful material for writing and other creative pursuits</li>
+</ul>
+</li>
+</ul>
+<hr/>
+<h4 id="everything-else">Everything else<a class="headerlink" href="#everything-else" title="Permanent link">¶</a></h4>
 <!-- taken from 
 https://github.com/squidfunk/mkdocs-material/blob/master/src/partials/source-file.html -->
 <hr/>
