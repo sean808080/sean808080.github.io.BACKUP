@@ -3,7 +3,9 @@ share: TRUE
 title: "index"
 ---
 
-# my rusty old resurrected and reinvigorated blog![100](./images/4d9ad238771819.576e33714536d.jpg)
+# my rusty old resurrected and reinvigorated blog
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" width="240" height="320" alt=""></a>
+
 ---
 ### Introduction
 I've decided to restart a blog and instead of writing daily, use tricks to keep it up to date with the various things I've been doing.
@@ -32,6 +34,6 @@ share: TRUE
 ---
 >To navigate back to the menu click the [sean808080.github.io](https://sean808080.github.io/) link at the top of the note
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" width="480" height="640" alt=""></a>
+
 ---
 Last updated: now
