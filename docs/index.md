@@ -21,6 +21,7 @@ I've decided to restart a blog and instead of writing daily, use tricks to keep 
 9. [Tennessee Williams](Tennessee%20Williams)           
 10. [The Overstory](The%20Overstory) 
 11. [The girl that looked in the mirror all the time](The%20girl%20that%20looked%20in%20the%20mirror%20all%20the%20time)
+
 ---
 ### The content
 Here's a sampling of what I make public in my [Obsidian](https://obsidian.md) vault simply by adding a [YAML](https://www.redhat.com/en/topics/automation/what-is-yaml) tag
