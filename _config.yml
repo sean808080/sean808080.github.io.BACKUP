@@ -1,1 +1,2 @@
-remote_theme: material-theme/vsc-material-theme
+#remote_theme: material-theme/vsc-material-theme
+theme: minima
