@@ -14,4 +14,4 @@ I've decided to restart a blog and instead of writing daily, use tricks to keep 
 
 
 
-Last updated: {{date:YYYY-MM-DD}}T{{time:HH:mm}}
+Last updated: now
