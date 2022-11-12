@@ -3,7 +3,7 @@ site_description: open kimono
 site_url: https://sean808080.github.io/sean808080.github.io
 
 theme:
-    name: 'material'
+    name: 'amelia'
     logo: assets/meta/favicons.png
     favicon: assets/meta/favicons.png
     custom_dir: overrides
