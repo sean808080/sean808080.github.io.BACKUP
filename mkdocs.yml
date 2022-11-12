@@ -79,6 +79,7 @@ markdown_extensions:
           format: !!python/name:mermaid2.fence_mermaid
 plugins:
   - blog
+  blog_dir:.
   - search
   - ezlinks:
         wikilinks: true
