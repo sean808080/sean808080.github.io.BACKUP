@@ -13,16 +13,14 @@ Here's a sampling of what I make public in my [Obsidian](https://obsidian.md)vau
  *share: True*
 
 ### Links to public notes
-| Name                              |
-| --------------------------------- |
-| [Obsidian Publishing Framework](Obsidian%20Publishing%20Framework) |
-| [Social Media Disclaimer](Social%20Media%20Disclaimer)       |
-| [Digital love languages](Digital%20love%20languages)        |
-| [Democracy rankings](Democracy%20rankings)            |
-| [Reactance in psychology](Reactance%20in%20psychology)       |
-| [Ella Fitzgerald](Ella%20Fitzgerald)               |
-| [Tennessee Williams](Tennessee%20Williams)            |
-|                                   |
+1. [Obsidian Publishing Framework](Obsidian%20Publishing%20Framework) 
+2. [Social Media Disclaimer](Social%20Media%20Disclaimer)       
+3. [Digital love languages](Digital%20love%20languages)        
+4. [Democracy rankings](Democracy%20rankings)            
+5. [Reactance in psychology](Reactance%20in%20psychology)       
+6. [Ella Fitzgerald](Ella%20Fitzgerald)               
+7. [Tennessee Williams](Tennessee%20Williams)            
+                                   
 
 
 
