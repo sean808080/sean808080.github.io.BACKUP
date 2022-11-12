@@ -21,14 +21,15 @@ share: TRUE
 ---
 ### Links to public notes
 1. [Obsidian Publishing Framework](Obsidian%20Publishing%20Framework) 
-2. [Social Media Disclaimer](Social%20Media%20Disclaimer)       
-3. [Digital love languages](Digital%20love%20languages)        
-4. [Democracy rankings](Democracy%20rankings)            
-5. [Reactance in psychology](Reactance%20in%20psychology)       
-6. [The Psychology of Money](The%20Psychology%20of%20Money)
-7. [Ella Fitzgerald](Ella%20Fitzgerald)               
-8. [Tennessee Williams](Tennessee%20Williams)           
-9. [The Overstory](The%20Overstory) 
+2. [Neos First Roller Coaster Ride at Disneyland](Neos%20First%20Roller%20Coaster%20Ride%20at%20Disneyland)
+3. [Social Media Disclaimer](Social%20Media%20Disclaimer)       
+4. [Digital love languages](Digital%20love%20languages)        
+5. [Democracy rankings](Democracy%20rankings)            
+6. [Reactance in psychology](Reactance%20in%20psychology)       
+7. [The Psychology of Money](The%20Psychology%20of%20Money)
+8. [Ella Fitzgerald](Ella%20Fitzgerald)               
+9. [Tennessee Williams](Tennessee%20Williams)           
+10. [The Overstory](The%20Overstory) 
 
 
 
