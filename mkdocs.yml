@@ -1,6 +1,6 @@
-site_name: your_site_name
-site_description: A cool description
-site_url: https://change_me.io/
+site_name: sean808080s blog
+site_description: open kimono
+site_url: https://github.com/sean808080/blog
 
 theme:
     name: 'material'
