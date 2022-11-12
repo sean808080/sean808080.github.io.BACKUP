@@ -1,6 +1,5 @@
 ---
 share: TRUE
-title: "changeme"
 ---
 # The Psychology of Money
 
