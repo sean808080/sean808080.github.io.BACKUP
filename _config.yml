@@ -1,4 +1,4 @@
-title: sean808080's ohmbase
+title: obsidian PKM generated site
 author:
   name: sean808080
   email: shh@pobox.com
@@ -14,19 +14,19 @@ minima:
 
   # generate social links in footer
   social_links:
-#    - { platform: devto,          user_url: "https://dev.to/jekyll" }
- #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-  #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
+#    - { platform: devto,          user_url: "https://dev.to/sean808080" }
+ #   - { platform: dribbble,       user_url: "https://dribbble.com/sean808080" }
+  #  - { platform: facebook,       user_url: "https://www.facebook.com/sean808080" }
     - { platform: flickr,         user_url: "https://www.flickr.com/photos/sean808080" }
     - { platform: github,         user_url: "https://github.com/jekyll/sean808080" }
- #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+ #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=sean808080" }
     - { platform: instagram,      user_url: "https://www.instagram.com/sean808080" }
-   # - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/jekyll" }
-  #  - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
- #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-#    - { platform: telegram,       user_url: "https://t.me/jekyll" }
+   # - { platform: keybase,        user_url: "https://keybase.io/sean808080" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/seanhenriques" }
+  #  - { platform: microdotblog,   user_url: "https://micro.blog/sean808080" }
+ #   - { platform: pinterest,      user_url: "https://www.pinterest.com/sean808080" }
+    - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/931658/sean808080" }
+#    - { platform: telegram,       user_url: "https://t.me/sean808080" }
     - { platform: twitter,        user_url: "https://twitter.com/sean808080" }
     - { platform: youtube,        user_url: "https://www.youtube.com/sean808080" }
 
