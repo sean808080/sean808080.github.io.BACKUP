@@ -13,10 +13,10 @@ Here's a sampling of what I make public in my [Obsidian](https://obsidian.md)vau
  *share: True*
 
 ### Links to public notes
-| Name                                    |     |
-| --------------------------------------- | --- |
-| [Obsidian Publish Framework](./Obsidian%20Publishing%20Framework.md) |     |
-| [Social Media Disclaimer](Social%20Media%20Disclaimer)             |     |
+| Name                                    |    
+| --------------------------------------- | 
+| [Obsidian Publishing Framework](Obsidian%20Publishing%20Framework) |     
+| [Social Media Disclaimer](Social%20Media%20Disclaimer)             |    
 
 
 
