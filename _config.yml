@@ -1,2 +1,3 @@
 #remote_theme: material-theme/vsc-material-theme
-theme: minima
+#remote_theme: squidfunk/mkdocs-material
+#theme: architect
