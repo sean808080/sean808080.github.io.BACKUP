@@ -2,7 +2,8 @@
 share: TRUE
 title: "index"
 ---
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" align="right"  alt="my latest flickr photo"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44124483010@N01" title=""><img src="https://live.staticflickr.com/65535/52481776173_7d581d02c5.jpg" align="center"  alt="my latest flickr photo"></a>
+---
 # my rusty old resurrected and reinvigorated blog
 ---
 ### Introduction
