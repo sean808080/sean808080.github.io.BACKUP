@@ -21,4 +21,3 @@ Just by adding that YAML tag to whatever note I'm working on will automatically 
 
 
 ---
-Last updated: now
