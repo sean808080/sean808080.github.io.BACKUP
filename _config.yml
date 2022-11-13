@@ -1,11 +1,11 @@
-title: an obsidian PKM generated site autopublishing to github on a jekyll website
+title: sean808080.github.io
 author:
   name: sean808080
   email: shh@pobox.com
 description: > # this means to ignore newlines until "show_excerpts:"
   love is love
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
