@@ -18,6 +18,11 @@ share: TRUE
 ---
 Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.  Nice...
 
+〽️ Obsidian Vault Stats
+	-  File Count: `$=dv.pages().length`
+	- Encounters Backlog: `$=dv.pages('"+ Encounters"').length`
+	-  Cards Count: `$=dv.pages('"Cards"').length`
+
 
 
 ---
