@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
+         <loc>https://sean808080.github.io/</loc>
+         <lastmod>2022-11-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://sean808080.github.io/Democracy%20Rankings/</loc>
          <lastmod>2022-11-13</lastmod>
          <changefreq>daily</changefreq>
@@ -72,11 +77,6 @@
     </url>
     <url>
          <loc>https://sean808080.github.io/The%20girl%20that%20looked%20in%20the%20mirror%20all%20the%20time/</loc>
-         <lastmod>2022-11-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://sean808080.github.io/home/</loc>
          <lastmod>2022-11-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
