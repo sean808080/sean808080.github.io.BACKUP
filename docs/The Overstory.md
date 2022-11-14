@@ -31,3 +31,13 @@ share: TRUE
 - No strangeness stranger than the strangeness of living things. ([Location 2748](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=2748))
     - Tags: [favorite](favorite.md) 
     - Note: Yes
+## New highlights added November 13, 2022 at 4:01 PM
+- Quick young people, loud in their devotion, call across the tent-dotted meadow. Their noses, ears, and eyebrows flash with hardware. Dreadlocks tangle in the fibers of their multicolored garb. They stink of soil, sweat, idealism, patchouli oil, and the sweet sinsemilla grown all through these woods. ([Location 3293](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3293))
+- He has landed in a druid tree cult like the ones he read about on winter nights in the Hoel family encyclopedia. Oak veneration at the oracle at Dodona, the druids’ groves in Britain and Gaul, Shinto sakaki worship, India’s bejeweled wishing trees, Mayan kapoks, Egyptian sycamores, the Chinese sacred ginkgo—all the branches of the world’s first religion. ([Location 3347](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3347))
+## New highlights added November 13, 2022 at 7:01 PM
+- All winter she has struggled to describe the joy of her life’s work and the discoveries that have solidified in a few short years: how trees talk to one another, over the air and underground. How they care and feed each other, orchestrating shared behaviors through the networked soil. ([Location 3384](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3384))
+## New highlights added November 13, 2022 at 8:01 PM
+- There are no individuals in a forest, no separable events. The bird and the branch it sits on are a joint thing. A third or more of the food a big tree makes may go to feed other organisms. ([Location 3396](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3396))
+## New highlights added November 13, 2022 at 9:01 PM
+- She remembers the Buddha’s words: A tree is a wondrous thing that shelters, feeds, and protects all living things. It even offers shade to the axmen who destroy it. ([Location 3455](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3455))
+- She hates the phone. Handheld schizophrenia. Unseen voices whispering to you from a distance. ([Location 3485](https://readwise.io/to_kindle?action=open&asin=B073VX7HT4&location=3485))
