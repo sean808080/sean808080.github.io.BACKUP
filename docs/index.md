@@ -16,11 +16,12 @@ The header of this site has navigation that is based on a sampling of what I mak
 ```yaml
 share: TRUE
 ```
----
-Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.  Nice...
+Pretty neat huh?
+Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated. 
 
----
-<a class="twitter-timeline" href="https://twitter.com/sean808080?ref_src=twsrc%5Etfw">Tweets by sean808080</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+The pages I've shared will either show as a list of links or as a menu option depending on how you're viewing this page.  Enjoy...
+
+
 ---
 
 ---
