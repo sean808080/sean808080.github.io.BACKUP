@@ -8,7 +8,7 @@ title: "index"
 # my rusty old resurrected and reinvigorated blog
 ---
 ### Introduction
-I've decided to restart a website and instead of dealing with adminstration, I'll use a few hooks to publish content to the site with a simple tag.
+I've decided to restart a website and instead of dealing with website administration, I'll use a few hooks to publish content to the site with a simple tag from from my text editor.
 
 ---
 ### The content
