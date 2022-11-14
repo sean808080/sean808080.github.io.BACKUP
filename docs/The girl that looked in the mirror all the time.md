@@ -9,10 +9,9 @@ tags::  #writing #randomMemory #women #psychology #mythology #voyeur #nyc
 *Photo by [Tusik Only](https://unsplash.com/@tusik?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral) on [Unsplash](https://unsplash.com/?utm_source=Obsidian%20Image%20Inserter%20Plugin&utm_medium=referral)*
 
 Who:
--  a young lady who lived across 30th street
-
+-  a young lady who lived across from me and my roommates in NYC on E. 30th street
 What:
-- being a NY apartment, our windows faced a wall of windows and it became a past time to observe what the neighbors were doing.  this particular young lady was transfixed most times I watched her. She would spend an inordinate amount of time staring at herself in a make up mirror.  Now I think of Narcissus but at the time I figured she was an insecure young actress.
+- being a NY apartment, our windows faced a wall of windows and it became a pasttime to observe what the neighbors were doing while on the phone etc.  This particular young lady was transfixed most times I watched her. She would spend an inordinate amount of time staring at herself in a what looked to be a make up mirror on a small table.  Now I think of Narcissus but at the time I figured she was an insecure young actress or model.
 
 When:
 -  late 1990's
