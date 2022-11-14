@@ -17,9 +17,9 @@ The header of this site has navigation that is based on a sampling of what I mak
 share: TRUE
 ```
 Pretty neat huh?
-Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated. 
+Just by adding that YAML tag to whatever note I'm working on will automatically publish the page to Github and the Jekyll site will automatically get updated.   Why isn't everything this easy?
 
-The pages I've shared will either show as a list of links or as a menu option depending on how you're viewing this page.  Enjoy...
+So, the pages I've shared will either show as a list of links or as a menu option depending on how you're viewing this page.  Enjoy...
 
 
 ---
