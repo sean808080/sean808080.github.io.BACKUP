@@ -12,4 +12,4 @@ mkdocs-encryptcontent-plugin==2.4.2
 mkdocs-simple-hooks==0.1.5
 mkdocs-callouts==1.8.1
 mkdocs-custom-tags-attributes==0.3.0
-mkdocs-meta-descriptions-plugin==2.1.0
+mkdocs-meta-descriptions-plugin==2.2.0
