@@ -1,6 +1,6 @@
 mkdocs==1.5.1
 mkdocs-material==9.1.21
-mkdocs-mermaid2-plugin==1.0.1
+mkdocs-mermaid2-plugin==1.0.5
 mkdocs-ezlinked-plugin==0.3.3
 mkdocs-awesome-pages-plugin==2.9.1
 mdx_breakless_lists==1.0.1
