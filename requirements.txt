@@ -1,5 +1,5 @@
 mkdocs==1.5.3
-mkdocs-material==9.3.1
+mkdocs-material==9.3.2
 mkdocs-mermaid2-plugin==1.1.0
 mkdocs-ezlinked-plugin==0.3.3
 mkdocs-awesome-pages-plugin==2.9.2
